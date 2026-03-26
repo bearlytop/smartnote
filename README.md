@@ -1,8 +1,3 @@
----
-title: 2026 Reminder & Journaling Tools: How Beanly Transforms Your Note-Taking
-date: 2026-03-26
----
-
 
 
 ```html
