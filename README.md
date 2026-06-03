@@ -1,6 +1,10 @@
 # jartalk & 罐语
 
-共 0 篇文章。
+jartalk & 罐语 helps you track expenses, plan budgets and understand daily spending. Use AI to organize money   habits and manage personal finances more clearly.
 
+🔗 网站：https://bearly.top/
 
-<sub>本 README 由站群系统自动生成维护。</sub>
+## 文章
+
+共 0 篇。
+
