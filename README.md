@@ -6,8 +6,10 @@ jartalk & 罐语 helps you track expenses, plan budgets and understand daily spe
 
 ## 文章
 
-共 5 篇。
+共 7 篇。
 
+- [罐语记账软件：AI智能管理，让记账变得简单高效](_posts/jartalk-expense-tracker-review.md)
+- [Make Budgeting Fun: How to Stop Living Paycheck to Paycheck](_posts/make-budgeting-fun-stop-living-paycheck-to-paycheck.md)
 - [罐语——用AI智能记账，轻松管理个人财务](_posts/jartalk-ai-expense-tracker.md)
 - [Stop Manual Bookkeeping: Bearly Automates Expenses & Saves You Money](_posts/stop-manual-bookkeeping-bearly-automates-expenses-saves-money.md)
 - [Bearly vs Rocket Money：你需要的不是记账，而是看懂钱去哪了](_posts/bearly-vs-rocket-money-5012.md)
