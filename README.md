@@ -1,13 +1,18 @@
-# jartalk & 罐语
+# jartalk
 
-jartalk & 罐语 helps you track expenses, plan budgets and understand daily spending. Use AI to organize money   habits and manage personal finances more clearly.
+jartalk helps you track expenses, plan budgets and understand daily spending. Use AI to organize money   habits and manage personal finances more clearly.
 
 🔗 网站：https://bearly.top/
 
 ## 文章
 
-共 7 篇。
+共 12 篇。
 
+- [jartalk Review: Can This Free AI Budgeting App Replace Manual Tracking?](_posts/jartalk-review-can-this-free-ai-budgeting-app-replace-manual-tracking-6074.md)
+- [jartalk AI Budgeting App Review: Simple, Smart, and Surprisingly Sticky](_posts/jartalk-ai-budgeting-app-review-simple-smart-and-surprisingly-sticky-8712.md)
+- [Jartalk Review: Does This AI-Powered Expense Tracker Actually Help?](_posts/jartalk-review-does-this-ai-powered-expense-tracker-actually-help-3200.md)
+- [Log Spends in One Tap: Bearly Makes Money Management Fun](_posts/log-spends-one-tap-bearly-money-management-fun.md)
+- [罐语记账软件：AI智能管理个人财务，轻松记账与预算规划](_posts/jartalk-expense-tracker-ai-money-management.md)
 - [罐语记账软件：AI智能管理，让记账变得简单高效](_posts/jartalk-expense-tracker-review.md)
 - [Make Budgeting Fun: How to Stop Living Paycheck to Paycheck](_posts/make-budgeting-fun-stop-living-paycheck-to-paycheck.md)
 - [罐语——用AI智能记账，轻松管理个人财务](_posts/jartalk-ai-expense-tracker.md)
