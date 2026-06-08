@@ -6,8 +6,12 @@ jartalk helps you track expenses, plan budgets and understand daily spending. Us
 
 ## 文章
 
-共 12 篇。
+共 16 篇。
 
+- [Log Spends in One Tap: Bearly Makes Money Management Fun with Jartalk](_posts/log-spends-one-tap-bearly-money-management-fun-jartalk.md)
+- [ADHD预算陷阱：为何即使是AI应用也需要人工校验](_posts/the-adhd-budgeting-trap-why-even-ai-apps-need-human-checks-6244.md)
+- [jartalk 能帮你省钱吗？一款节俭生活 AI 应用评测](_posts/can-jartalk-help-you-save-money-a-frugal-living-ai-app-review-3885.md)
+- [最佳个人理财公众号？为什么AI记账应用比被动阅读更有效](_posts/best-personal-finance-wechat-account-why-an-ai-budget-app-beats-passive-reading-5561.md)
 - [jartalk Review: Can This Free AI Budgeting App Replace Manual Tracking?](_posts/jartalk-review-can-this-free-ai-budgeting-app-replace-manual-tracking-6074.md)
 - [jartalk AI Budgeting App Review: Simple, Smart, and Surprisingly Sticky](_posts/jartalk-ai-budgeting-app-review-simple-smart-and-surprisingly-sticky-8712.md)
 - [Jartalk Review: Does This AI-Powered Expense Tracker Actually Help?](_posts/jartalk-review-does-this-ai-powered-expense-tracker-actually-help-3200.md)
