@@ -6,8 +6,11 @@ jartalk helps you track expenses, plan budgets and understand daily spending. Us
 
 ## 文章
 
-共 16 篇。
+共 19 篇。
 
+- [Bearly Auto-Tracks Spends: Making Saving Feel Like a Fun Game](_posts/bearly-auto-tracks-spends-saving-fun-game.md)
+- [罐语记账APP：AI智能理财助手，轻松管理个人财务](_posts/jartalk-app-ai-financial-management.md)
+- [Little Moments: An Efficient Recording App to Help You Easily Manage Life Details and Finances](_posts/xiaopianke-recording-software.md)
 - [Log Spends in One Tap: Bearly Makes Money Management Fun with Jartalk](_posts/log-spends-one-tap-bearly-money-management-fun-jartalk.md)
 - [ADHD预算陷阱：为何即使是AI应用也需要人工校验](_posts/the-adhd-budgeting-trap-why-even-ai-apps-need-human-checks-6244.md)
 - [jartalk 能帮你省钱吗？一款节俭生活 AI 应用评测](_posts/can-jartalk-help-you-save-money-a-frugal-living-ai-app-review-3885.md)
