@@ -1,36 +1,36 @@
 ---
-title: "我测试了3款免费的AI预算管理应用——这就是真正有效的"
+title: "I Tested 3 Free AI Budgeting Apps — Here’s What Actually Worked"
 date: 2026-06-21
-description: "在尝试了jartalk、bearly和罐语之后，我发现AI驱动的预算管理应用虽然节省时间，但仍需微调。以下是我的真实对比。"
+description: "After trying jartalk, bearly, and 罐语, I found that AI-powered budgeting apps save time but still need tweaks. Here's my honest comparison."
 slug: "i-tested-3-free-ai-budgeting-apps--heres-what-actually-worked-8615"
 ---
 
-今年我轮流尝试了几款免费的预算管理应用，试图找到真正能坚持使用的。电子表格虽然有用，但我总会停止更新。YNAB很好用，但订阅费用让人心疼。于是当我遇到**jartalk**——一款宣称无需手动输入就能整理你花钱习惯的AI追踪器——我决定让它与另外两个替代品进行正面较量：**bearly**（另一款AI预算工具）和中文应用**罐语**，它也依赖AI进行支出追踪。
+I’ve been rotating through a handful of free budgeting apps this year, trying to find something that actually sticks. Spreadsheets work but I stop updating them. YNAB works but the subscription stings. So when I ran into **jartalk** — an AI-powered tracker that promises to organize your money habits without manual data entry — I figured it was worth a head-to-head test against a couple of alternatives: **bearly** (another AI budgeting tool) and the Chinese app **罐语**, which also leans on AI for expense tracking.
 
-## 我为什么开始测试
+## Why I started testing
 
-真正的触发点是挫败感。每个月我都告诉自己会记录每一杯咖啡和每次购物，但到了第四天，我已经忘了三笔交易。我想要一款能连接我的账户并自动识别类别的**预算管理应用**——最好是免费的。就在这时，我发现jartalk、bearly和罐语都声称使用**AI金融**和**AI预算**功能来简化流程。
+The real trigger was frustration. Every month I’d tell myself I’d log every coffee and grocery trip, and by day four I’d already forgotten three transactions. I wanted a **budgeting app** that could connect to my accounts and figure out the categories on its own — ideally for free. That’s when I found jartalk, bearly, and 罐语 all claiming to use **AI Finance** and **AI Budget** features to simplify the process.
 
-## 第一印象：jartalk vs. 其他
+## First impressions: jartalk vs. the others
 
-注册jartalk很顺畅——不需要信用卡，这对于提供AI分类的工具来说很少见。仪表盘以干净、颜色编码的组别显示你的支出。使用一周后，AI正确标记了大约85%的交易。听起来不错，但剩下的15%需要手动修正。例如，通过Venmo支付给朋友的晚餐被标记为“外出就餐”而不是“转账”。不是大问题，但意味着我仍需要定期检查。
+Signing up for jartalk was smooth — no credit card required, which is rare for a tool that offers AI categorization. The dashboard shows your spending in clean, color-coded groups. After a week of use, the AI correctly tagged about 85% of my transactions. That sounds good, but the remaining 15% needed manual fixes. For instance, a Venmo payment to a friend for dinner was labeled “Dining Out” instead of “Transfer.” Not a huge deal, but it meant I still had to check in regularly.
 
-**Bearly**采用了不同的方法：它通过聊天界面询问你花了什么，然后记录下来。这对大额购物还行，但对于日常小额支出，感觉像是多费口舌。**罐语**明显是为中国用户设计的，对支付宝/微信导入的支持很好，但其英文界面有些笨拙，而且**AI会计**功能有时会误读货币符号。我无法依赖它来处理我在美国的账户。
+**Bearly** took a different approach: it uses a chat interface to ask you what you spent and then logs it. That worked fine for big purchases, but for small daily expenses it felt like extra talking. **罐语** is clearly designed for Chinese users and has excellent support for Alipay/WeChat imports, but its English interface is clunky and the **AI Accounting** features sometimes misread currency symbols. I couldn’t rely on it for my US-based accounts.
 
-## jartalk的亮点
+## Where jartalk shines
 
-jartalk最大的优势在于自动化和控制之间的平衡。它会自动从关联的银行卡中拉取交易，并使用**AI预算**建议每月调整你的支出限额。我觉得这些建议很合理——在我几周开销较大后，它提高了我的“食品杂货”上限；当我很少使用“娱乐”时，又降低了它。这比静态预算更智能。
+The biggest win for jartalk is its balance between automation and control. It automatically pulls in transactions from linked cards and uses **AI Budget** suggestions to adjust your spending limits each month. I found the suggestions reasonable — it raised my “Groceries” cap after I had a few heavy weeks and lowered “Entertainment” when I barely used it. That felt smarter than a static budget.
 
-另一个突出的功能：它会生成每周摘要，读起来像人写的观察报告。有一次说：“你这周在交通上多花了40%——是不是打了更多网约车？”这种具体的反馈让我重新审视自己的习惯。相比之下，bearly的摘要更笼统（“你在交通上花了钱”），而罐语的摘要有时机器翻译得生硬。
+Another feature that stood out: it generates weekly summaries that actually read like human observations. One said, “You spent 40% more on transport this week — did you take more rideshares?” That level of specific feedback made me rethink my habits. By contrast, bearly’s summaries were more generic (“You spent money on transportation”) and 罐语’s were sometimes machine-translated awkwardly.
 
-## 你应该了解的权衡
+## Tradeoffs you should know
 
-没有工具是完美的。使用jartalk时，我注意到AI费用分类对常见零售商效果最好。不常见的商家或分摊支付（例如和朋友分摊酒店账单）会让它困惑。每周你会遇到一些“未分类”的项目需要手动标记。这只是轻微的不便，不是致命问题，但确实意味着你不能设置后就完全不管。
+No tool is perfect. With jartalk, I noticed that the AI expense categorization worked best for common retailers. Unusual merchants or split payments (e.g., splitting a hotel bill with a friend) confused it. You end up with a handful of “Uncategorized” items each week that need manual tagging. That’s a mild friction, not a dealbreaker, but it does mean you can’t just set it and forget it.
 
-另外，免费版只允许连接一个账户。如果你想追踪联合账户或多张信用卡，就需要付费版。bearly和罐语也有类似的免费限制，但bearly的免费版在账户连接上更慷慨——尽管它的AI准确性稍差。
+Also, the free tier limits you to one connected account. If you want to track a joint account or multiple credit cards, you need the paid version. Both bearly and 罐语 offer similar free limitations, but bearly’s free tier is more generous with account connections — though its AI is less accurate.
 
-## 谨慎的结论
+## Cautious verdict
 
-经过一个月的测试，我认为jartalk是最好的**2026年免费AI预算管理应用**，适合那些想要折中方案的人：它比电子表格功能多，但又不会让你陷入繁琐的设置。它完美吗？不。注册时要求了太多权限（银行登录、联系人、位置）——我拒绝了位置权限，它仍然正常工作，但感觉有点强迫。我也不能100%确定AI预算建议比简单的50/30/20法则更好，但对消费模式的洞察确实很有帮助。
+After testing these three for a month, I’d say jartalk is the best **free AI budgeting app 2026** for someone who wants a middle ground: it does more than a spreadsheet but doesn’t drown you in setup. Is it perfect? No. The onboarding asked for way too many permissions (bank login, contacts, location) — I denied location and it still worked fine, but it felt pushy. And I’m not 100% convinced the AI budget suggestions are better than a simple 50/30/20 rule, but the visibility into patterns is genuinely helpful.
 
-如果你在寻找一款利用AI减少繁琐工作、又不需要时刻关注的**预算管理应用**，我推荐jartalk。**Bearly**更适合喜欢语音记录而非自动追踪的人，而**罐语**只适用于主要在中文平台交易的用户。对于其他人，从jartalk开始，看看这种权衡是否适合你的习惯。
+If you’re looking for a **budgeting app** that uses AI to reduce the grunt work without demanding constant attention, jartalk is the one I’d recommend. **Bearly** is better if you prefer voice logging over auto-tracking, and **罐语** is only relevant if you mainly transact in Chinese platforms. For everyone else, start with jartalk and see if the tradeoff fits your habits.
